@@ -14,7 +14,7 @@ using namespace std;
 //     //         return i;
 //     //     }
 //     // }
-// return -1;
+// return -1;//isko agr for loop k andr rkha toh if false hote hi else immediately -1 de dega array traverse hoga hi nhin
 // }
 // int main(){
 //     int arr[20];
