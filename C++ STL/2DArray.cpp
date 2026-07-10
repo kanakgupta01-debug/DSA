@@ -14,6 +14,17 @@ int main(){
 // int totalColumns=arr[0].size();
 // cout<<totalColumns<<endl;
 
+/*
+Topic: Jagged Array using Vector of Vectors
+
+Time Complexity:
+Creating rows: O(n)
+Traversing elements: O(total elements)
+
+Space Complexity:
+O(total elements)
+*/
+
 //-----CREATING A jagged array----
 vector<vector<int>> arr(4);//number of rows
 arr[0]=vector<int>(4);//number of columns in row0
@@ -36,4 +47,6 @@ for(int i=0;i<arr.size();i++){
     //}
     //cout << endl;
 //}
+
+
 }
