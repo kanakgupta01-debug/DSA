@@ -17,3 +17,6 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Purpose
 
 This repository documents my DSA learning journey and problem-solving practice.
+
+## DSA progress tracker
+leetcode:15
